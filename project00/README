@@ -1,2 +1,2 @@
-typescript slides
-file:///C:/Users/LENOVO/Downloads/LEARNING%20TYPESCRIPT%20FUDAMENTALS.pdf
+A simple message print "Hello World" in console.log
+console.log is a method that use to print message
